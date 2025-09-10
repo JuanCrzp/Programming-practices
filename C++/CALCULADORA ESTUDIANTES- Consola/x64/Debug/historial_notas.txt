@@ -1,0 +1,8 @@
+Materia:  matematicas
+Fecha:  13-04-2025 17:19:21
+Nota acumulada:  0.97
+nota parcial (100%):  2.44
+Porcentaje total:  40.00%
+Estado:  Semestre Incompleto
+Aprobacion:   Reprobado
+------------------------------------------------------------------------------------------------------------------------
